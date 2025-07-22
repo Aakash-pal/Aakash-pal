@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Hi, I'm Aakash Pal
 
-<!--
-**Aakash-pal/Aakash-pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 *Aspiring Cloud Data Engineer* | 🛠️ *SQL & ETL Enthusiast** | 📊 *Transforming messy data into reliable pipelines*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+I’m a motivated and detail-driven **Cloud Data Engineer-in-training**, with professional experience in **incident and ETL**, now transitioning into the world of **data engineering**.
+
+My focus is on **hands-on, project-based learning**, where each GitHub repository reflects real-world scenarios, complex SQL transformations, and data pipeline automation using tools like **Docker**, **PostgreSQL**, and **Python**.
+
+---
+
+### 🔧 Skills & Technologies
+
+- **Languages & Tools:** SQL (PostgreSQL, T-SQL), Python (Pandas)/(learning), Git, Docker, Batch
+- **ETL Pipelines:** SQL-based extraction, regex-powered transformation, conditional repair logic
+- **Data Cleaning:** Contextual inference, null handling, regex validation
+- **Automation:** Dockerized pipelines, Task Scheduler, GitHub Actions (CI/CD)
+- **Cloud Tools:** Currently learning Azure Data Factory & Azure services
+- **Databases:** PostgreSQL, MSSQL, DBeaver
+
+---
+
+### 📂 Featured Projects
+
+#### 🧼 ETL Café Sales Pipeline — *From Raw to Reliable*
+> A complete data engineering project simulating real-world ETL operations. It includes raw ingestion, complex SQL logic repair using CTEs, Dockerized orchestration, and scheduled automation.
+
+**Key highlights:**
+- Built a multi-step **SQL pipeline** for cleaning `item`, `payment_method`, and `location` using **regex-safe contextual logic**
+- Used **CTEs** and layered subqueries to preserve clean values while repairing invalid entries
+- Implemented **Docker-based containerization** and automated with **Windows Task Scheduler**
+- Structured and documented for professional GitHub presentation
+
+🔗 [`View Project`](https://https://github.com/Aakash-pal/etl-cafe-sales)
+
+---
+
+### 📘 Current Learning Journey
+
+I’m growing my expertise step-by-step through guided mini-projects learning. Here's my roadmap:
+
+- ✅ **PostgreSQL-only SQL data transformation project**
+- ✅ **ETL pipeline with Docker & Python**
+- 🔄 **Multi-source SQL joins & enrichment (Upcoming)**
+- 🔄 **Azure Data Factory for visual ETL (Upcoming)**
+- 🔄 **Apache Airflow with Docker orchestration (Upcoming)**
+
+---
+
+### 📊 GitHub Stats
+
+![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aakash-Pal&show_icons=true&theme=default)
+
+---
+
+### 💬 Let’s Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/AakashPal)
+- 🧠 I’m open to collaboration, feedback, and continuous learning!
+
+---
+
+> “Build systems that make data reliable, not just available.”
+
