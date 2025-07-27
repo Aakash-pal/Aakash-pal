@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aakash Pal
 
-🎯 *Aspiring Cloud Data Engineer* | 🛠️ *SQL & ETL Enthusiast** | 📊 *Transforming messy data into reliable pipelines*
+🎯 *Aspiring Cloud Data Engineer* | 🛠️ *SQL & ETL Enthusiast* | 📊 *Transforming messy data into reliable pipelines*
 
 ---
 
