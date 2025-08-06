@@ -53,10 +53,7 @@ I’m growing my expertise step-by-step through guided mini-projects learning. H
 ### 📊 GitHub Stats
 
 ![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aakash-Pal&show_icons=true&theme=default)
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Containerized-Docker-blue?logo=docker&logoColor=white)
-![Airflow](https://img.shields.io/badge/Orchestrator-Apache%20Airflow-blue?logo=apache-airflow&logoColor=white)
+
 ---
 
 ### 💬 Let’s Connect
