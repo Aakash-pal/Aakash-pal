@@ -34,7 +34,7 @@ My focus is on **hands-on, project-based learning**, where each GitHub repositor
 - Implemented **Docker-based containerization** and automated with **Windows Task Scheduler**
 - Structured and documented for professional GitHub presentation
 
-🔗 [`View Project`](https://https://github.com/Aakash-pal/etl-cafe-sales)
+🔗 [`View Project`](https://github.com/Aakash-pal/etl-cafe-sales)
 
 ---
 
