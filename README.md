@@ -45,7 +45,6 @@ I’m growing my expertise step-by-step through guided mini-projects learning. H
 - ✅ **PostgreSQL-only SQL data transformation project**
 - ✅ **ETL pipeline with Docker & Python**
 - 🔄 **Multi-source SQL joins & enrichment (Upcoming)**
-- 🔄 **Azure Data Factory for visual ETL (Upcoming)**
 - ✅ **Apache Airflow with Docker orchestration**
 
 ---
