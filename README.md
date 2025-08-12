@@ -18,7 +18,7 @@ My focus is on **hands-on, project-based learning**, where each GitHub repositor
 - **ETL Pipelines:** SQL-based extraction, regex-powered transformation, conditional repair logic
 - **Data Cleaning:** Contextual inference, null handling, regex validation
 - **Automation:** Dockerized pipelines, Task Scheduler, GitHub Actions (CI/CD)
-- **Cloud Tools:** Currently learning Azure Data Factory & Azure services
+- **Cloud Tools:** Apache Airflow with Docker orchestration
 - **Databases:** PostgreSQL, MSSQL, DBeaver
 
 ---
