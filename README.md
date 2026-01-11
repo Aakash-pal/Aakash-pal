@@ -51,7 +51,7 @@ I’m growing my expertise step-by-step through guided mini-projects learning. H
 
 ### 💬 Let’s Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/AakashPal)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aakashpal/)
 - 🧠 I’m open to collaboration, feedback, and continuous learning!
 
 ---
