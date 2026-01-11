@@ -49,12 +49,6 @@ I’m growing my expertise step-by-step through guided mini-projects learning. H
 
 ---
 
-### 📊 GitHub Stats
-
-![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aakash-Pal&show_icons=true&theme=default)
-
----
-
 ### 💬 Let’s Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/AakashPal)
